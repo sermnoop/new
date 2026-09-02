@@ -1,0 +1,14 @@
+{
+  "type": "ebook",
+  "name": "MANGA Plus by SHUEISHA",
+  "plugins": [
+    {
+      "id": "mangaplus-shueisha",
+      "name": "MANGA Plus by SHUEISHA",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "mangaplus.plugin.js"
+    }
+  ]
+}
