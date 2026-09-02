@@ -1,15 +1,15 @@
 {
   "type": "ebook",
-  "name": "Manga Sources",
+  "name": "EBook Sources",
   "plugins": [
     {
-      "id": "mangaplus-shueisha",
-      "name": "MangaPlus by Shueisha",
+      "id": "gutenberg-source",
+      "name": "Project Gutenberg",
       "version": "1.0.0",
       "lang": "en",
       "nsfw": false,
-      "icon": "https://mangaplus.shueisha.co.jp/favicon.ico",
-      "entry": "https://cdn.jsdelivr.net/gh/sermnoop/new@main/mangaplus.plugin.js"
+      "icon": "https://www.gutenberg.org/favicon.ico",
+      "entry": "gutenberg.plugin.js"
     }
   ]
 }
