@@ -1,0 +1,15 @@
+{
+  "type": "ebook",
+  "name": "Manga Sources",
+  "plugins": [
+    {
+      "id": "mangaplus-shueisha",
+      "name": "MangaPlus by Shueisha",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://mangaplus.shueisha.co.jp/favicon.ico",
+      "entry": "mangaplus.plugin.js"
+    }
+  ]
+}
