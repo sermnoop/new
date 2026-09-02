@@ -1,14 +1,15 @@
 {
   "type": "ebook",
-  "name": "MANGA Plus by SHUEISHA",
+  "name": "Manga Sources",
   "plugins": [
     {
-      "id": "mangaplus-shueisha",
-      "name": "MANGA Plus by SHUEISHA",
+      "id": "mangadex-source",
+      "name": "MangaDex",
       "version": "1.0.0",
       "lang": "en",
       "nsfw": false,
-      "entry": "mangaplus.plugin.js"
+      "icon": "https://mangadex.org/favicon.ico",
+      "entry": "mangadex.plugin.js"
     }
   ]
 }
