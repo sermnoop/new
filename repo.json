@@ -9,7 +9,7 @@
       "lang": "en",
       "nsfw": false,
       "icon": "https://mangaplus.shueisha.co.jp/favicon.ico",
-      "entry": "mangaplus.plugin.js"
+      "entry": "https://raw.githubusercontent.com/sermnoop/new/main/mangaplus.plugin.js"
     }
   ]
 }
