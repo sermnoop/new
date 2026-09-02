@@ -5,7 +5,7 @@
     {
       "id": "gutenberg-source",
       "name": "Project Gutenberg",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "lang": "en",
       "nsfw": false,
       "icon": "https://www.gutenberg.org/favicon.ico",
